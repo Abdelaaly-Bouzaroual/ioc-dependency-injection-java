@@ -1,0 +1,2 @@
+net.bouz.dao.DaoImplV2
+net.bouz.metier.MetierImpl
